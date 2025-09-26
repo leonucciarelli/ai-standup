@@ -1,6 +1,6 @@
 # AI Stand-Up Joke Generator 🤖🎤
 
-Portfolio project demoing **RAG (Retrieval-Augmented Generation)** with **LangChain**, **Streamlit**, and *Agent-based Wikipedia integration**.
+Portfolio project demoing **RAG (Retrieval-Augmented Generation)** with **LangChain**, **Streamlit**, and **Agent-based Wikipedia integration**.
 
 ---
 
